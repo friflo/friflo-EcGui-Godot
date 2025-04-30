@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bai5edkb2sjeb"]
+
+[ext_resource type="Script" path="res://FrifloEcGui.cs" id="1_tojkb"]
+
+[node name="friflo-EcGui" type="Node2D"]
+script = ExtResource("1_tojkb")

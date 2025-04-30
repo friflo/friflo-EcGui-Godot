@@ -1,0 +1,12 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# temporary library copies created by Godot Editor
+/addons/imgui-godot/bin/~*.*
+
+# Rider
+.idea
+
+# Visual Studio
+.vs
