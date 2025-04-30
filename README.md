@@ -1,12 +1,12 @@
-# friflo EcGui - MonoGame
+# friflo EcGui - Godot
 
-Minimal **MonoGame** setup to showcase use and integration of [**friflo EcGui**](https://github.com/friflo/Friflo.Engine.ECS#ecgui).
+Minimal **Godot** setup to showcase use and integration of [**friflo EcGui**](https://github.com/friflo/Friflo.Engine.ECS#ecgui).
 
 **friflo EcGui** can be integrated in every environment that support [**ImGui.NET**](https://github.com/ImGuiNET/ImGui.NET).
 
 Ready-to-run Demos are available for: MonoGame, Godot, SDL3 GPU and Silk.NET.OpenGL.
 
-![friflo-EcGui-MonoGame](https://github.com/user-attachments/assets/5150eafe-fad8-4502-88c9-7ceb9b60cbc6)
+![friflo-EcGui-Godot](https://github.com/user-attachments/assets/e4b0d101-3b15-4d8b-b646-7a6bdb4ded81)
 
 
 ## Goals
@@ -52,9 +52,6 @@ ECS
 - DemoTypes.cs    Contains various example types: components, relations, tags, custom types and enums
 - TypeDrawers.cs  Custom TypeDrawer's are optional.
                   They enable to render custom types in a single line. E.g. Point, Color, Sprite, ...
-
-ImGuiNet          Contains the source to connect MonoGame Input and Rendering to ImGui.NET.
-                  This folder should be copied to your project as is.
 ```
 
 ## License
