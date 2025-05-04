@@ -22,8 +22,8 @@ public partial class FrifloEcGui : Node2D
         
         ImGui.StyleColorsLight();           // optional
         EcGui.Setup.SetDefaultStyles();     // optional
-        DemoECS.CreateEntityStore();
         DemoECS.CustomizeEcGui();
+        DemoECS.CreateEntityStore();
     }
 
     public override void _Process(double delta)
